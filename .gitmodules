@@ -1,0 +1,3 @@
+[submodule "cvelistV5"]
+	path = cve-data/mitre
+	url = git://github.com/CVEProject/cvelistV5.git
